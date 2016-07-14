@@ -1,0 +1,15 @@
+{
+  "name": "u01jmg3/setasign-fpdi",
+  "version": "1.4.5",
+  "autoload": {
+    "classmap": [
+      "src/fpdf_tpl.php",
+      "src/fpdi.php",
+      "src/fpdi2tcpdf_bridge.php",
+      "src/fpdi_pdf_parser.php",
+      "src/fpdi_with_annots.php",
+      "src/pdf_context.php",
+      "src/pdf_parser.php"
+    ]
+  }
+}
