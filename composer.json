@@ -1,6 +1,6 @@
 {
   "name": "u01jmg3/setasign-fpdi",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "autoload": {
     "classmap": [
       "src/fpdf_tpl.php",
